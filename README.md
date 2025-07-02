@@ -74,10 +74,8 @@ Palabra 2 laptop (TreeSet con Comparador)
 A continuación, se recomienda insertar una captura de pantalla donde se vea claramente la ejecución del programa desde la consola, mostrando cómo se ordenan las palabras en cada tipo de `Set`.
 
 ```
-![alt text](image.png)
+!(image.png)
 ```
-
-> 📌 *Tip:* Asegúrate de mostrar los cinco bloques generados desde `App.java`, así demuestras correctamente el comportamiento de cada estructura.
 
 ---
 
