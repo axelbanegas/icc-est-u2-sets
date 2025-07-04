@@ -75,6 +75,8 @@ A continuación, se recomienda insertar una captura de pantalla donde se vea cla
 
 ```
 !(image.png)
+Imagen de los ejercicios de la siguiente clase
+![alt text](image-1.png)
 ```
 
 ---

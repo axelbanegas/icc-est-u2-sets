@@ -1,16 +1,21 @@
+import controllers.Ejercicios;
+import controllers.contactoController;
 import controllers.sets;
 import java.util.Set;
+ 
 
 
 public class App {
     public static void main(String[] args) throws Exception {
         // Create an instance of the Sets class
-        sets s = new sets();
-        runHashset(s);
-        runLinkedHashset(s);
-        runTreeSet(s);
-        construirTreeSetConComparador(s);
-        construirTreeSetConComparador2(s);
+        //sets s = new sets();
+        //runHashset(s);
+        //runLinkedHashset(s);
+        //runTreeSet(s);
+        //construirTreeSetConComparador(s);
+        //construirTreeSetConComparador2(s);
+         //contactoController contactoController = new contactoController();
+         Ejercicios Ejercicios = new Ejercicios();
     }
 
     public static void runHashset(sets s) {
